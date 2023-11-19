@@ -1,0 +1,44 @@
+@charset "UTF-8";
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --cor01: ;
+  --cor02: ;
+  --cor03: ;
+  --cor04: ;
+  --cor05: ;
+}
+
+body{
+  height: 100vw;
+  background-color: antiquewhite;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img-estilo{
+  width: 200px;
+}
+
+ul#lista-imagens{
+  margin-left: 100px;
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+  
+}
+
+
+
+
